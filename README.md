@@ -2,6 +2,7 @@
 - 👀 I’m interested in solving real world problems through software creation and technology.
 - 🌱 I’m currently learning Web3, System Design, React Native.
 - 💞️ I’m looking to collaborate on projects.
+- ⏺️ I also have a youtube channel: https://www.youtube.com/@Mr.FitCoder.
 - 📫 How to reach me:
      - LinkedIn: https://www.linkedin.com/in/subham-shaw-3185731a2/
      - Twitter: https://twitter.com/SUBHAMS27002680

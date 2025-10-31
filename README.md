@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SubhamShaww
 - 👀 I’m interested in solving real world problems through software creation and technology.
-- 🌱 I’m currently learning Web3, System Design, React Native.
+- 🌱 I’m currently learning Web3, AI Agent.
 - 💞️ I’m looking to collaborate on projects.
 - ⏺️ I also have a youtube channel: https://www.youtube.com/@Mr.FitCoder where I post videos on coding project walkthrough and problem-solving.
+- 📃 My Resume: 🌐(https://drive.google.com/file/d/1R1ZM8dTrCqm5sEHs-gQD0lVcJsbX4pho/view?usp=drive_link)
 - 📫 How to reach me:
      - LinkedIn: https://www.linkedin.com/in/subham-shaw-3185731a2/
      - Twitter: https://twitter.com/SUBHAMS27002680

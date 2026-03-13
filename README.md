@@ -7,7 +7,7 @@
 - 📫 How to reach me:
      - LinkedIn: https://www.linkedin.com/in/subham-shaw-3185731a2/
      - Twitter: https://twitter.com/SUBHAMS27002680
-     - email: sub.show@gmail.com
+     - email: subham.work78@gmail.com
      - portfolio: https://subham-shaw-portfolio.vercel.app/
 
 <!---

@@ -8,7 +8,6 @@
      - LinkedIn: https://www.linkedin.com/in/subham-shaw-3185731a2/
      - Twitter: https://twitter.com/SUBHAMS27002680
      - email: subham.work78@gmail.com
-     - portfolio: https://subham-shaw-portfolio.vercel.app/
 
 <!---
 SubhamShaww/SubhamShaww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

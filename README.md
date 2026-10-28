@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SubhamShaww
 - 👀 I’m interested in solving real world problems through software creation and technology.
-- 🌱 I’m currently learning Web3, AI Agent.
 - 💞️ I’m looking to collaborate on projects.
 - ⏺️ I also have a youtube channel: https://www.youtube.com/@Mr.FitCoder where I post videos on coding project walkthrough and problem-solving.
 - 📫 How to reach me:
